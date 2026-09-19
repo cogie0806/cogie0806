@@ -1,16 +1,37 @@
-## Hi there 👋
+# こんにちは！ / Hello!
 
-<!--
-**cogie0806/cogie0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+こんにちは。**cogie0806**です。日本人です。日本に住んでます。
+2026年6月下旬にGitHubアカウントを作成しました。GitHubを使ってウェブページを作っています。よろしくお願いいたします。
 
-Here are some ideas to get you started:
+Hello. I'm **cogie0806**. I'm Japanese. I live in Japan. I created my GitHub account in late June 2026. I use GitHub to create web pages. Nice to meet you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Links / リンク
+
+<!-- 💡 すべてのボタンを青色（#3b82f6）に統一しました -->
+<a href="https://cogie0806.github.io/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🏠 Open cogie0806's homepage / cogie0806のホームページを開く</a>
+
+<a href="https://cogie0806.github.io/Search-cogie0806/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🔍 Search for cogie0806 / cogie0806検索で調べる</a>
+
+<a href="https://cogie0806.github.io/news/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">📰 Open cogie0806 news / cogie0806ニュースを開く</a>
+
+<a href="https://cogie0806.github.io/Drawing/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🎨 cogie0806 draws pictures with Paint Editor / cogie0806ペイントエディタで絵を描く</a>
+
+<a href="https://cogie0806.github.io/AI/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🤖 Open AI/cogie0806 / AI/cogie0806をひらく</a>
+
+---
+
+## 📊 GitHub Stats / 活動ステータス
+
+<!-- 💡 ボタンの青色に合わせてグラフのテーマを青系の「react」に変更しました -->
+<table>
+  <tr>
+    <td>
+      <img src="https://vercel.app" alt="cogie0806's GitHub Stats" width="400">
+    </td>
+    <td>
+      <img src="https://vercel.app" alt="cogie0806's Top Langs" width="300">
+    </td>
+  </tr>
+</table>
