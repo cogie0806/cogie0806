@@ -9,12 +9,12 @@ Hello. I'm **cogie0806**. I'm Japanese. I live in Japan. I created my GitHub acc
 
 ## 🔗 My Webpages / 作成したウェブページ
 
-<a href="https://github.io" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🏠 Open cogie0806's homepage / cogie0806のホームページを開く</a>
+<a href="https://cogie0806.github.io/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🏠 Open cogie0806's homepage / cogie0806のホームページを開く</a>
 
-<a href="https://github.ioSearch-cogie0806/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🔍 Search for cogie0806 / cogie0806検索で調べる</a>
+<a href="https://cogie0806.github.io/Search-cogie0806/#gsc.tab=0" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🔍 Search for cogie0806 / cogie0806検索で調べる</a>
 
-<a href="https://github.ionews/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">📰 Open cogie0806 news / cogie0806ニュースを開く</a>
+<a href="https://cogie0806.github.io/news/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">📰 Open cogie0806 news / cogie0806ニュースを開く</a>
 
-<a href="https://github.ioDrawing/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🎨 cogie0806 draws pictures with Paint Editor / cogie0806ペイントエディタで絵を描く</a>
+<a href="https://cogie0806.github.io/Drawing/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🎨 cogie0806 draws pictures with Paint Editor / cogie0806ペイントエディタで絵を描く</a>
 
-<a href="https://github.ioAI/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🤖 Open AI/cogie0806 / AI/cogie0806をひらく</a>
+<a href="https://cogie0806.github.io/AI/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🤖 Open AI/cogie0806 / AI/cogie0806をひらく</a>
