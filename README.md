@@ -1,20 +1,49 @@
-# こんにちは！ / Hello!
+# こんにちは！/Hello!
 
-こんにちは。**cogie0806**です。日本人です。日本に住んでます。
-2026年6月下旬にGitHubアカウントを作成しました。GitHubを使ってウェブページを作っています。よろしくお願いいたします。
+こんにちは！cogie0806です。日本に住んでいます。
+2026年6月下旬にGitHubアカウントを作成し、HTMLやJavaScriptを使って様々なウェブページやゲームを作っています。
 
-Hello. I'm **cogie0806**. I'm Japanese. I live in Japan. I created my GitHub account in late June 2026. I use GitHub to create web pages. Nice to meet you.
+Hello! I'm cogie0806. I live in Japan. 
+I created my GitHub account in late June 2026 and enjoy creating various web pages and games using GitHub Pages.
 
 ---
 
-## 🔗 My Webpages / 作成したウェブページ
+## 🌐 公開中のウェブページ・アプリ (Websites & Apps)
 
-<a href="https://cogie0806.github.io/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🏠 Open cogie0806's homepage / cogie0806のホームページを開く</a>
+私が作成したプロジェクトの一覧です。クリックすると実際に遊んだり使ったりできます！
 
-<a href="https://cogie0806.github.io/Search-cogie0806/#gsc.tab=0" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🔍 Search for cogie0806 / cogie0806検索で調べる</a>
+### 🏠 [cogie0806のホームページ](https://cogie0806.github.io/home/)
+便利なツールやゲーム、おみくじ、音楽プレイヤーなどをまとめた、はじめて作成したポータルサイトです。
+* **主な機能:** かんたん鏡、今日の運勢おみくじ、タイマー、ToDoリスト、電卓、音楽プレイヤー、背景カスタマイズ
 
-<a href="https://cogie0806.github.io/news/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">📰 Open cogie0806 news / cogie0806ニュースを開く</a>
+### ⛅ [cogie0806天気](https://cogie0806.github.io/weather/)
+* 気象庁のデータ（予報）を利用して、日本全国の都道府県の天気を簡単に確認できるシンプルな天気予報ツールです。
 
-<a href="https://cogie0806.github.io/Drawing/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🎨 cogie0806 draws pictures with Paint Editor / cogie0806ペイントエディタで絵を描く</a>
+### 🍎 [りんごキャッチゲーム](https://cogie0806.github.io/Apple_Catch_Game/)
+* キーボード（矢印キー）、画面のボタン、またはスマホのタッチ操作でカゴを動かして、落ちてくるりんごをキャッチする楽しいミニゲームです。
 
-<a href="https://cogie0806.github.io/AI/" style="display: block; text-align: center; background-color: #3b82f6; color: white; text-decoration: none; padding: 10px; margin: 8px 0; border-radius: 6px; font-weight: bold; font-size: 14px;">🤖 Open AI/cogie0806 / AI/cogie0806をひらく</a>
+### 📰 [cogie0806ニュース](https://cogie0806.github.io/news/)
+* メインニュース、ゲーム・エンタメ情報、その他のトピックなど、様々なニュースをチェックできるページです。
+
+### 🟩 [cogie0806マイクラwiki](https://cogie0806.github.io/minecraft-wiki/)
+* マインクラフトのアップデート情報や、自作のリソースパックをダウンロードできる特設wikiページです。
+
+### 🎨 [cogie0806ペイントエディタ](https://cogie0806.github.io/Drawing/)
+* ブラウザ上で自由に絵が描けるペイントツールです。
+* **主な機能:** 筆、消しゴム、塗りつぶし、テキスト、図形（線・円・四角）、戻る/進む、画像読み込み、作品の保存、画質設定（低・中・高）
+
+---
+
+## 🛠️ 使用技術 (Tech Stack)
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Tools / Platform:** GitHub, GitHub Pages, AI Assistant (Google AI)
+
+---
+
+## 🔗 その他の活動リンク (Other Links)
+ホームページ内でも紹介している、私の外部アカウントです。
+* Scratch
+* クラフターズコロニー
+* Roblox
+
+よろしくお願いいたします！ Nice to meet you!
