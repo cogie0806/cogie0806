@@ -12,7 +12,7 @@
 <p>Hello! I'm cogie0806. I live in Japan.<br> I created my GitHub account in late June 2026 and enjoy creating various web pages and games using GitHub Pages.</p>
 
 
-<h3🌐 公開中のウェブページ・アプリ (Websites & Apps)</h3>
+<h3>🌐 公開中のウェブページ・アプリ (Websites & Apps)</h3>
 
 <p>僕とgoogle geminiが作成したプロジェクトの一覧です。クリックすると実際に遊んだり使ったりできます！</p>
 
