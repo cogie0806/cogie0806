@@ -14,9 +14,9 @@
 
 <h3>🌐 公開中のウェブページ・アプリ (Websites & Apps)</h3>
 
-<p>僕とgoogle geminiが作成したプロジェクトの一覧です。クリックすると実際に遊んだり使ったりできます！</p>
+<p>僕とgoogle geminiが作成したプロジェクトの一覧です。下のボタンでページ内検索を開けます。</p>
 
-<iframe src="https://cogie0806.github.io/Page-search/" width="100%" height="300" style="border:none;"></iframe>
+<a class="link-btn" href="https://cogie0806.github.io/Page-search/">ページ内検索</a>
 
 
 <h7>🛠️ 使用技術 (Tech Stack)
